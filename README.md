@@ -168,8 +168,10 @@ term
 
 
 ## Visualizing Diff
+```
 ```diff
 10 PRINT “BASIC IS COOL”
 - 20 GOTO 11
 + 20 GOTO 10
+```
 ```
