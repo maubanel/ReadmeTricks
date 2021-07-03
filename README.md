@@ -32,6 +32,10 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 
 * ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
 
+## Color Line Break using placeholder.com
+`<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>`<br>
+<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+
 ## Hide Content
 Content does not support markdown :-(
 <details>
