@@ -160,7 +160,7 @@ Get all at https://www.webfx.com/tools/emoji-cheat-sheet/*
 * 🖱️
 
 ## Keyboard Markup
-`<kbd>1</kbd>
+`<kbd>1</kbd>`
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
 
 term
