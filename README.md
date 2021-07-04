@@ -21,6 +21,11 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 
 <samp>Monospaced text</samp>
 
+## Boxed Text
+```<table><tr><td>Boxed text</td></tr></table>```<br>
+
+<table><tr><td>Boxed text</td></tr></table>
+
 
 [//]: # (This comment will not be seen)
 
