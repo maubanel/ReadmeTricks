@@ -64,7 +64,15 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Color Background and Swatch using placeholder.com
 
+```
 <img src="https://via.placeholder.com/150/0000FF/FFFFFF/?text=Mauby">
+```
+
+<img src="https://via.placeholder.com/150/0000FF/FFFFFF/?text=Mauby">
+
+```
+* ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
+```
 
 * ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
 
