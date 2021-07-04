@@ -16,6 +16,8 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 ## Hidden Comment
 * Below comment is hidden
 
+[//]: # (This comment will not be seen)
+
 ## Mono Space Text
 ```<samp>Monospaced text</samp>```<br>
 
@@ -26,8 +28,10 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 
 <table><tr><td>Boxed text</td></tr></table>
 
+## Pixel Perfect Gap in Text
+```Large Gap Follows:<img width="1337"> due to blank img```<br>
+Large Gap Follows:<img width="1337"> due to blank img
 
-[//]: # (This comment will not be seen)
 
 ## Resize and position image
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=left>
