@@ -29,8 +29,9 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 <table><tr><td>Boxed text</td></tr></table>
 
 ## Pixel Perfect Gap in Text
-```Large Gap Follows:<img width="60"> due to blank img```<br>
-Large Gap Follows:<img width="1337"> due to blank img
+```Huge gap follows: <img width="100"> text after huge gap```<br>
+
+Huge gap follows: <img width="100"> text after huge gap
 
 
 ## Resize and position image
