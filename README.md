@@ -1,10 +1,5 @@
 # ReadmeTricks
 
-<dl>
-  <dt>Term</dt>
-  <dd>definition</dd>
-</dl>
-
 ## Video Embed:
 Drag and drop .mp4 and it creates an embedded link!
 
@@ -36,6 +31,13 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 ```Huge gap follows: <img width="100"> text after huge gap```<br>
 
 Huge gap follows: <img width="100"> text after huge gap
+
+## Definition
+<dl>
+  <dt>Term</dt>
+  <dd>definition</dd>
+</dl>
+
 
 
 ## Resize and position image
