@@ -1,5 +1,9 @@
 # ReadmeTricks
 
+<dl>
+  <dt>Term</dt>
+  <dd>definition</dd>
+</dl>
 
 ## Video Embed:
 Drag and drop .mp4 and it creates an embedded link!
