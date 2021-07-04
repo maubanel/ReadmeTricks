@@ -1,12 +1,6 @@
 # ReadmeTricks
 
 
-+-------------------------------------------------------------+
-
-| L A U G H     A     L O T    .     L O V E     L O T     M O R E - HK  |
-
-+-------------------------------------------------------------+
-
 ## Video Embed:
 Drag and drop .mp4 and it creates an embedded link!
 
