@@ -16,6 +16,11 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 ## Hidden Comment
 * Below comment is hidden
 
+## Mono Space Text:
+```<samp>Monospaced text</samp>```<br>
+
+<samp>Monospaced text</samp>
+
 
 [//]: # (This comment will not be seen)
 
