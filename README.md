@@ -1,4 +1,5 @@
 # ReadmeTricks
+My favorite README formatting techniques that are both documented and undocumented.
 
 ## Video Embed:
 Drag and drop .mp4 and it creates an embedded link!
