@@ -111,6 +111,12 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/maubanel/ReadmeTricks?style=plastic)
 
+```markdown
+![GitHub repo size](https://img.shields.io/github/repo-size/maubanel/ReadmeTricks?style=plastic)
+```
+
+
+![GitHub repo size](https://img.shields.io/github/repo-size/maubanel/ReadmeTricks?style=plastic)
 
 
 ## Hide Content
