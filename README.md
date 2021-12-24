@@ -52,7 +52,8 @@ Huge gap follows: <img width="100"> text after huge gap
 <dl>
   <dt>Term</dt>
   <dd>definition</dd>
-</dl>```
+</dl>
+```
 
 
 <dl>
