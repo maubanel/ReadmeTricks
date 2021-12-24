@@ -1,7 +1,8 @@
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
-/aur/last-modified/:packageName
+[![Star on GitHub](https://img.shields.io/aur/last-modified/:packageName)](https://github.com/badges/shields)
+
 
 ## Video Embed:
 Drag and drop .mp4 and it creates an embedded link!
