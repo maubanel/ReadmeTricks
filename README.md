@@ -120,7 +120,7 @@ Huge gap follows: <img width="100"> text after huge gap
 
 
 ## Hide Content
-Content does not support markdown :-(
+
 ```markdown
 <details>
   <summary>HINT</summary>
