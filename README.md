@@ -156,7 +156,9 @@ Huge gap follows: <img width="100"> text after huge gap
 <button class="button-save large">Big Fat Button</button>
 
 ## Anchor link
-```[Go to Top of Page](#video-embed)```markdown
+```markdown
+[Go to Top of Page](#video-embed)
+```
 
 
 [Go to Top of Page](#video-embed)
