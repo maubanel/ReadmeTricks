@@ -112,7 +112,6 @@ Huge gap follows: <img width="100"> text after huge gap
 ![GitHub last commit](https://img.shields.io/github/last-commit/maubanel/ReadmeTricks?style=plastic)
 
 
-https://shields.io/category/size
 
 ## Hide Content
 Content does not support markdown :-(
