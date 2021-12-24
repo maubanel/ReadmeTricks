@@ -19,30 +19,42 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 ## Hidden Comment
 * Below comment is hidden
 
+```[//]: # (This comment will not be seen)```markdown
+
 [//]: # (This comment will not be seen)
 
 ## Mono Space Text
-```<samp>Monospaced text</samp>```<br>
+```<samp>Monospaced text</samp>```markdown
+
 
 <samp>Monospaced text</samp>
 
 ## Boxed Text
-```<table><tr><td>Boxed text</td></tr></table>```<br>
+```<table><tr><td>Boxed text</td></tr></table>```markdown
+
 
 <table><tr><td>Boxed text</td></tr></table>
 
 ## Pixel Perfect Gap in Text
-```Huge gap follows: <img width="100"> text after huge gap```<br>
+```Huge gap follows: <img width="100"> text after huge gap```markdown
+
 
 Huge gap follows: <img width="100"> text after huge gap
 
 ## Interesting Titles
-```
+```markdown
 # `'Mauby'`|`First.Chapter`
 ```
 # `'Mauby'`|`First.Chapter`
 
 ## Definition
+```markdown
+<dl>
+  <dt>Term</dt>
+  <dd>definition</dd>
+</dl>```
+
+
 <dl>
   <dt>Term</dt>
   <dd>definition</dd>
@@ -52,7 +64,7 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Resize and position image
 
-```
+```markdown
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=left>
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=right>
 <p align=center>
@@ -68,7 +80,7 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Color Background and Swatch using placeholder.com
 
-```
+```markdown
 <img src="https://via.placeholder.com/150/0000FF/FFFFFF/?text=Mauby">
 ```
 
@@ -86,6 +98,9 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Shields
 
+```https://shields.io/category/size```markdown
+
+
 https://shields.io/category/size
 
 ## Hide Content
@@ -97,6 +112,15 @@ Content does not support markdown :-(
 </details>
 
 ## Button using Tables
+```markdown
+| [Mauby](https://marcaubanel.com)|
+|---|
+
+| [Mauby](https://marcaubanel.com)|[Mauby](https://marcaubanel.com)|[Mauby](https://marcaubanel.com)|
+|---|---|---|
+```
+
+
 | [Mauby](https://marcaubanel.com)|
 |---|
 
@@ -104,16 +128,33 @@ Content does not support markdown :-(
 |---|---|---|
 
 ## Button using HTML
+```<button class="button-save large">Big Fat Button</button>```markdwon
+
+
 <button class="button-save large">Big Fat Button</button>
 
 ## Anchor link
+```[Go to Top of Page](#ue4-hello-world)```markdown
+
+
 [Go to Top of Page](#ue4-hello-world)
 
 ## Horizontal Line
 
+```markdown
+---
+```
+
+
 ---
 
 ## Combined Format
+```markdown
+* Italic-bold -> __*Mauby*__
+* superscript -italic -> Mauby<sup>*tm*</sup>
+* italic-bold-strikethrough -> ~~__*Cancelled*__~~
+```
+
 
 * Italic-bold -> __*Mauby*__
 * superscript -italic -> Mauby<sup>*tm*</sup>
@@ -134,9 +175,14 @@ function fancyAlert(arg) {
   }
 }
 ```
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 
 ## Tasklist
-```
+```markdown
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
