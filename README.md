@@ -193,10 +193,20 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Syntax Highlighting
 `` ```javascript 
+
+
 function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+
+
+if(arg) {
+
+
+$.facebox({div:'#foo'})
+
+
+}
+
+
 }
 ``` ``
 
