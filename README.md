@@ -121,6 +121,15 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Hide Content
 Content does not support markdown :-(
+```markdown
+<details>
+  <summary>HINT</summary>
+   This is a HUGE hint!<br>
+   This is a <sub>small</sub> hint!
+</details>
+```
+
+
 <details>
   <summary>HINT</summary>
    This is a HUGE hint!<br>
