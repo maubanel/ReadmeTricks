@@ -38,7 +38,9 @@ Got to [mauby's website][test]
 <table><tr><td>Boxed text</td></tr></table>
 
 ## Pixel Perfect Gap in Text
-```Huge gap follows: <img width="100"> text after huge gap```markdown
+```markdown
+Huge gap follows: <img width="100"> text after huge gap
+```
 
 
 Huge gap follows: <img width="100"> text after huge gap
