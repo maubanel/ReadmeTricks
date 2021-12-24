@@ -30,6 +30,13 @@ Got to [mauby's website][test]
 <samp>Monospaced text</samp>
 ```
 
+## Underline
+```markdown
+<ins>Undrelined text</ins>
+```
+
+<ins>Undrelined text</ins>
+
 
 <samp>Monospaced text</samp>
 
