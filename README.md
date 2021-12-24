@@ -1,7 +1,7 @@
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
-[![Star on GitHub](https://img.shields.io/github/last-commit/:user/:repo)](https://github.com/badges/shields)
+[![Star on GitHub](https://img.shields.io/github/last-commit/:maubanel/:ReadmeTricks)](https://github.com/badges/shields)
 
 
 ## Video Embed:
