@@ -8,6 +8,9 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 
 
 ## Reusable links
+```markdown
+[test]: https://marcaubanel.com
+```
 [test]: https://marcaubanel.com
 
 * Got to [mauby's website][test].
