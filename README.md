@@ -152,11 +152,6 @@ Huge gap follows: <img width="100"> text after huge gap
 | [Mauby](https://marcaubanel.com)|[Mauby](https://marcaubanel.com)|[Mauby](https://marcaubanel.com)|
 |---|---|---|
 
-## Button using HTML
-```markddown
-<button class="button-save large">Big Fat Button</button>
-```
-
 
 <button class="button-save large">Big Fat Button</button>
 
