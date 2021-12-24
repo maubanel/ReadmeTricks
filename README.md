@@ -26,13 +26,17 @@ Got to [mauby's website][test]
 [//]: # (This comment will not be seen)
 
 ## Mono Space Text
-```<samp>Monospaced text</samp>```markdown
+```markdown
+<samp>Monospaced text</samp>
+```
 
 
 <samp>Monospaced text</samp>
 
 ## Boxed Text
-```<table><tr><td>Boxed text</td></tr></table>```markdown
+```markdown
+<table><tr><td>Boxed text</td></tr></table>
+```
 
 
 <table><tr><td>Boxed text</td></tr></table>
