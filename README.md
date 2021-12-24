@@ -1,9 +1,6 @@
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
-[![Star on GitHub](https://img.shields.io/github/last-commit/:maubanel/:maubanel/ReadmeTricks)](https://github.com/badges/shields)
-
-
 ## Video Embed:
 Drag and drop .mp4 and it creates an embedded link!
 
@@ -106,9 +103,13 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Shields
 
+[Build Shield](https://shields.io/category/size)
+
 ```markdown
-https://shields.io/category/size
+![GitHub last commit](https://img.shields.io/github/last-commit/maubanel/ReadmeTricks?style=plastic)
 ```
+
+![GitHub last commit](https://img.shields.io/github/last-commit/maubanel/ReadmeTricks?style=plastic)
 
 
 https://shields.io/category/size
