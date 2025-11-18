@@ -23,11 +23,16 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 ![alt text](./PTH.png)
 
 ## Hidden Comment
-* Below comment is hidden
 
-```[//]: # (This comment will not be seen)```markdown
+```markdown
+You cannot read line 2
+[//]: # line 2 unreadable
+as the above line is hidden
+``
 
-[//]: # (This comment will not be seen)
+You cannot read line 2
+[//]: # line 2 unreadable
+as the above line is hidden
 
 ## Mono Space Text
 ```markdown
