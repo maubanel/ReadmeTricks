@@ -1,10 +1,4 @@
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#39FF14" style="padding:16px; font-size:24px; font-weight:bold;">
-      NEXT UP — README.md File
-    </td>
-  </tr>
-</table>
+![svg test](./svg-test.svg)
 
 
 
