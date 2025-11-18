@@ -1,3 +1,10 @@
+> ```diff
+> + New Feature
+> - Deprecated
+> ! Important
+> ```
+
+
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
