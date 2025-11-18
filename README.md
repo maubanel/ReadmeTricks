@@ -182,15 +182,6 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ![Next Up](svg-test.svg)
 
-```
-* ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
-```
-
-* ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
-
-## Color Line Break using placeholder.com
-`<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>`<br>
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
 ## Shields
 
