@@ -12,6 +12,13 @@
 
 ![Next Up](https://img.shields.io/badge/Next_Up-README.md-45D7CA?style=for-the-badge&logoColor=white&labelColor=000000)
 
+<svg width="100%" height="60">
+  <rect width="100%" height="60" fill="#45D7CA"></rect>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        fill="black" font-size="24" font-weight="bold">
+    Next Up — README.md File
+  </text>
+</svg>
 
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
