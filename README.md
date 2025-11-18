@@ -392,3 +392,11 @@ term
 + 20 GOTO 10
 ```
 
+## Progress Bar
+```
+Progress: ███████░░░░ 70%
+```
+
+Progress: ███████░░░░ 70%
+
+
