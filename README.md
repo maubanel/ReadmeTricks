@@ -202,10 +202,10 @@ Huge gap follows: <img width="100"> text after huge gap
 
 ## Button using Tables
 ```markdown
-| [Mauby](https://marcaubanel.com)|
+| [DMAE](https://dmae.lsu.edu)|
 |---|
 
-| [Mauby](https://marcaubanel.com)|[Mauby](https://marcaubanel.com)|[Mauby](https://marcaubanel.com)|
+| [DMAE](https://dmae.lsu.edu)|[DMAE](https://dmae.lsu.edu)||[DMAE](https://dmae.lsu.edu)|
 |---|---|---|
 ```
 
