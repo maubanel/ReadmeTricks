@@ -162,14 +162,14 @@ Huge gap follows: <img width="100"> text after huge gap
 ## Resize and position image
 
 ```markdown
-<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=left>
+<img src="https://placehold.co/1000x100/45D7CA/000000?text=Next+Up+-+README.md+File" width=100 align=left>
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=right>
 <p align=center>
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100>
 </p>
 ```
 
-<img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=left>
+<img src="https://placehold.co/1000x100/45D7CA/000000?text=Next+Up+-+README.md+File" width=100 align=left>
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100 align=right>
 <p align=center>
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100>
