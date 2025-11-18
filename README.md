@@ -44,7 +44,7 @@ two lines it treats it as a single paragraph.
 
 ## Preserve line Breaks
 
-Use <pre> tags to preverve formating
+Use `<pre>` tags to preverve formating
 
 ```markdown
 <pre>
