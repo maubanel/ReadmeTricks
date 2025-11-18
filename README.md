@@ -29,9 +29,14 @@ If you put a space between two lines it sets them as separate
 paragraphs.
 ```
 
-If you put a space between two lines it sets them as separate
+## Inline text
+```markdown
+If you do not put a space between
+two lines it treats it as a single paragraph.
+```
 
-paragraphs.
+If you do not put a space between
+two lines it treats it as a single paragraph.
 
 ## Hidden Comment
 
