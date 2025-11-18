@@ -1,7 +1,3 @@
-> ⚠️ **Warning:** This feature is experimental!
-
-
-
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
@@ -402,5 +398,13 @@ Progress: ███████░░░░ 70%
 ```
 
 Progress: ███████░░░░ 70%
+
+## Call Outs
+
+```markdown
+> ⚠️ **Warning:** This feature is experimental!
+```
+
+> ⚠️ **Warning:** This feature is experimental!
 
 
