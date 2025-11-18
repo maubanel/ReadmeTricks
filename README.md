@@ -68,14 +68,15 @@ as the above line is hidden
 this passworld `12345` is inline code
 
 ## Code with spacing preserved
-\`\`\`c++
+<pre>
+```c++
 int c = 10;
 c++;
 if (c > 11)
 {
   c = 50;
 }
-\`\`\`
+</pre> ```
 
 ```c++
 int c = 10;
