@@ -10,6 +10,9 @@
   Next Up — README.md File
 </div>
 
+![Next Up](https://img.shields.io/badge/Next_Up-README.md-45D7CA?style=for-the-badge&logoColor=white&labelColor=000000)
+
+
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
