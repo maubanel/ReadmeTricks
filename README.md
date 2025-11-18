@@ -1,12 +1,11 @@
-<svg width="100%" height="80" viewBox="0 0 1200 80"
-     xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="80" fill="#39FF14" />
-  <text x="50%" y="50%" font-size="32" font-weight="700"
-        text-anchor="middle" dominant-baseline="middle"
-        fill="#003300">
-    NEXT UP — README.md File
-  </text>
-</svg>
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#39FF14" style="padding:16px; font-size:24px; font-weight:bold;">
+      NEXT UP — README.md File
+    </td>
+  </tr>
+</table>
+
 
 
 
