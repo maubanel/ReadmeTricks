@@ -1,4 +1,10 @@
-https://img.shields.io/badge/NEXT_UP-C%2B%2B_Code-45D7CA?style=for-the-badge&logoColor=white
+<table width="100%">
+  <tr>
+    <td align="center" style="background:#45D7CA; color:#000; padding:20px; font-size:24px; font-weight:bold;">
+      Next Up — README.md File
+    </td>
+  </tr>
+</table>
 
 
 # ReadmeTricks
