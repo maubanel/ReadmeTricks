@@ -1,17 +1,13 @@
-<!-- <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1200 100"
-     preserveAspectRatio="none"
-     width="100%" height="100" role="img" aria-label="Neon banner">
-
-  <rect width="100%" height="100%" fill="#39FF14" />
-
-
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial"
-        font-size="30" font-weight="700" fill="#002200">
+<svg width="100%" height="80" viewBox="0 0 1200 80"
+     xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="80" fill="#39FF14" />
+  <text x="50%" y="50%" font-size="32" font-weight="700"
+        text-anchor="middle" dominant-baseline="middle"
+        fill="#003300">
     NEXT UP — README.md File
   </text>
-</svg> -->
+</svg>
+
 
 
 
