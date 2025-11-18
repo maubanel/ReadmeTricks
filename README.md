@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/NEXT_UP-C%2B%2B_Code-45D7CA?style=for-the-badge&logoColor=white" />
+https://img.shields.io/badge/NEXT_UP-C%2B%2B_Code-45D7CA?style=for-the-badge&logoColor=white
 
 
 # ReadmeTricks
