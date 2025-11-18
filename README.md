@@ -1,6 +1,4 @@
-![svg test](./svg-test.svg)
-
-
+![Next Up](https://img.shields.io/badge/Next_Up-README.md-39FF14?style=for-the-badge&logoColor=000000)
 
 
 
