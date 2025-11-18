@@ -6,6 +6,9 @@
   </tr>
 </table>
 
+<div style="width:100%; background:#45D7CA; color:#000; padding:20px; text-align:center; font-size:24px; font-weight:bold;">
+  Next Up — README.md File
+</div>
 
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
