@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 ```
 
 a
-[DMAE Website]:https: //marcaubanel.com](https://dmae.lsu.edu
+[DMAE Website]: https://dmae.lsu.edu
 b
 
 * Got to [mauby's website][test].
