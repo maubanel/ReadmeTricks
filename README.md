@@ -64,6 +64,28 @@ as the above line is hidden
 <samp>Monospaced text</samp>
 ```
 
+## Inline Code
+this passworld `12345` is inline code
+
+## Code with spacing preserved
+\`\`\`c++
+int c = 10;
+c++;
+if (c > 11)
+{
+  c = 50;
+}
+\`\`\`
+
+```c++
+int c = 10;
+c++;
+if (c > 11)
+{
+  c = 50;
+}
+```
+
 <samp>Monospaced text</samp>
 
 ## Underline
