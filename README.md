@@ -1,18 +1,18 @@
-<!-- neon-simple.svg -->
-<svg xmlns="http://www.w3.org/2000/svg"
+<!-- <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 1200 100"
      preserveAspectRatio="none"
      width="100%" height="100" role="img" aria-label="Neon banner">
-  <!-- neon green background -->
+
   <rect width="100%" height="100%" fill="#39FF14" />
 
-  <!-- centered label -->
+
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial"
         font-size="30" font-weight="700" fill="#002200">
     NEXT UP — README.md File
   </text>
-</svg>
+</svg> -->
+
 
 
 # ReadmeTricks
