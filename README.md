@@ -65,6 +65,9 @@ as the above line is hidden
 ```
 
 ## Inline Code
+
+<pre>this passworld `12345` is inline code</pre>
+
 this passworld `12345` is inline code
 
 ## Code with spacing preserved
