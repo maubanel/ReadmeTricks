@@ -42,6 +42,25 @@ two lines it treats it as a single paragraph.
 If you do not put a space between
 two lines it treats it as a single paragraph.
 
+## Preserve line Breaks
+
+Use <pre> tags to preverve formating
+
+```markdown
+<pre>
+Words on
+separate
+lines, ok?
+</pre>
+```
+
+<pre>
+Words on
+separate
+lines, ok?
+</pre>
+
+
 ## Hidden Comment
 
 ```markdown
