@@ -7,15 +7,16 @@ Drag and drop .mp4 and it creates an embedded link!
 https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9092-2f218c1ea813.mp4
 
 
-## Reusable links
+## Outside link
 ```markdown
 [DMAE Website](https://dmae.lsu.edu)
 ```
 
 [DMAE Website](https://dmae.lsu.edu)
 
-* Got to [mauby's website][test].
-* You can do the same thing with images ```[text]: link ![text]```
+## Include Image
+You can do the same thing with images ```![alt text](PFT.png)```
+![alt text](PFT.png)
 
 ## Hidden Comment
 * Below comment is hidden
