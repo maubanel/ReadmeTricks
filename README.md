@@ -9,12 +9,10 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 
 ## Reusable links
 ```markdown
-[DMAE Website]: https://dmae.lsu.edu
+[DMAE Website](https://dmae.lsu.edu)
 ```
 
-a
-[DMAE Website]: https://dmae.lsu.edu
-b
+[DMAE Website](https://dmae.lsu.edu)
 
 * Got to [mauby's website][test].
 * You can do the same thing with images ```[text]: link ![text]```
