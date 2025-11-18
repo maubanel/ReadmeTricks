@@ -22,6 +22,17 @@ https://user-images.githubusercontent.com/5504953/124366609-e3385880-dc05-11eb-9
 
 ![alt text](./PTH.png)
 
+## New Paragraph
+```markdown
+If you put a space between two lines it sets them as separate
+
+paragraphs.
+```
+
+If you put a space between two lines it sets them as separate
+
+paragraphs.
+
 ## Hidden Comment
 
 ```markdown
