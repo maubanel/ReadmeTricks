@@ -217,8 +217,6 @@ Huge gap follows: <img width="100"> text after huge gap
 |---|---|---|
 
 
-<button class="button-save large">Big Fat Button</button>
-
 ## Anchor link
 ```markdown
 [Go to Top of Page](#video-embed)
