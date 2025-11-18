@@ -1,22 +1,42 @@
-<table width="100%">
-  <tr>
-    <td align="center" style="background:#45D7CA; color:#000; padding:20px; font-size:24px; font-weight:bold;">
-      Next Up — README.md File
-    </td>
-  </tr>
-</table>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 120"
+     preserveAspectRatio="none"
+     width="100%" height="120" role="img" aria-label="Neon banner">
+  <defs>
+    <!-- glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<div style="width:100%; background:#45D7CA; color:#000; padding:20px; text-align:center; font-size:24px; font-weight:bold;">
-  Next Up — README.md File
-</div>
+    <!-- subtle inner gradient for depth -->
+    <linearGradient id="bggrad" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#66FF3C" stop-opacity="1"/>
+      <stop offset="1" stop-color="#2BE600" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
 
-![Next Up](https://img.shields.io/badge/Next_Up-README.md-45D7CA?style=for-the-badge&logoColor=white&labelColor=000000)
+  <!-- background -->
+  <rect width="100%" height="100%" fill="url(#bggrad)" filter="url(#glow)"/>
 
-<svg width="100%" height="60">
-  <rect width="100%" height="60" fill="#45D7CA"></rect>
+  <!-- faint outline band -->
+  <rect x="4" y="4" width="1192" height="112" rx="8" fill="none" stroke="#bfffcc" stroke-opacity="0.08"/>
+
+  <!-- main text -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        fill="black" font-size="24" font-weight="bold">
-    Next Up — README.md File
+        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial"
+        font-weight="700" font-size="34" fill="#001100" style="letter-spacing:0.6px">
+    NEXT UP — README.md File
+  </text>
+
+  <!-- bright neon highlight text stacked for a subtle glow/sharpness -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-weight="800" font-size="34" fill="#39FF14" style="mix-blend-mode:screen; opacity:0.95">
+    NEXT UP — README.md File
   </text>
 </svg>
 
