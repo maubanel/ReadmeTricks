@@ -1,6 +1,3 @@
-This is <mark>important</mark> text.
-
-
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
