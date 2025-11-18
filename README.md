@@ -1,7 +1,3 @@
-![Next Up](svg-test.svg)
-
-
-
 # ReadmeTricks
 My favorite README formatting techniques that are both documented and undocumented.
 
@@ -179,13 +175,30 @@ Huge gap follows: <img width="100"> text after huge gap
 <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.jpg" width=100>
 </p>
 
-## Color Background and Swatch using placeholder.com
+## Banners using svgs
 
 ```markdown
-<img src="https://via.placeholder.com/150/0000FF/FFFFFF/?text=Mauby">
+<!-- banner.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+  <!-- Hardcoded neon green background -->
+  <rect width="1200" height="100" fill="#39FF14"/>
+
+  <!-- Hardcoded text in black -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="36" font-weight="bold"
+        fill="#000000">
+    NEXT UP — README.md File
+  </text>
+</svg>
+
 ```
 
-<img src="https://via.placeholder.com/150/0000FF/FFFFFF/?text=Mauby">
+```markdown
+![Next Up](svg-test.svg)
+```
+
+![Next Up](svg-test.svg)
 
 ```
 * ![#ff0000](https://via.placeholder.com/15/0000FF/0000FF) Blue!
