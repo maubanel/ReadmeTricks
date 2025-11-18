@@ -29,6 +29,10 @@ If you put a space between two lines it sets them as separate
 paragraphs.
 ```
 
+If you put a space between two lines it sets them as separate
+
+paragraphs.
+
 ## Inline text
 ```markdown
 If you do not put a space between
@@ -41,13 +45,18 @@ two lines it treats it as a single paragraph.
 ## Hidden Comment
 
 ```markdown
+
 You cannot read line 2
-[//]: # line 2 unreadable
+
+<!-- line 2 is not unreadable --> 
+
 as the above line is hidden
 ```
 
 You cannot read line 2
-[//]: # line 2 unreadable
+
+<!-- line 2 is not unreadable --> 
+
 as the above line is hidden
 
 ## Mono Space Text
