@@ -1,4 +1,4 @@
-![Next Up](https://img.shields.io/badge/Next_Up-README.md-39FF14?style=for-the-badge&logoColor=000000)
+![Next Up](https://img.shields.io/static/v1?label=%20&message=NEXT%20UP%20%E2%80%94%20README.md&color=39FF14&labelColor=39FF14&style=for-the-badge)
 
 
 
